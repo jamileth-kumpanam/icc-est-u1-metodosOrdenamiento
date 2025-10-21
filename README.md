@@ -15,5 +15,6 @@ Salida de Python
 ![alt text](<assets/Captura de pantalla 2025-10-21 a la(s) 8.42.48 a. m..png>)
 
 Salida de Java
+![alt text](<assets/Captura de pantalla 2025-10-21 a la(s) 8.45.35 a. m..png>)
 
 
