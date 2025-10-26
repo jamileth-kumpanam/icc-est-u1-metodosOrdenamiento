@@ -5,16 +5,10 @@
 
 ## Metodos Ordenamiento
 
-### Practica 1 - 20/OCT
-Metodo Sort Bubble
-
-### Practica 2 - 21/OCT
-Metodo Sort Selection en Java y Python
-
-Salida de Python
-![alt text](<assets/Captura de pantalla 2025-10-21 a la(s) 8.42.48 a. m..png>)
+### Practica Deber 25-OCT
+Metodo Sort Selection 
 
 Salida de Java
-![alt text](<assets/Captura de pantalla 2025-10-21 a la(s) 8.45.35 a. m..png>)
+![alt text](<assets/Captura de pantalla 2025-10-25 a la(s) 9.18.28 p. m..png>)
 
 
